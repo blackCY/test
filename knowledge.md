@@ -1,3 +1,5 @@
+# Babel
+
 # 不容错过的 Babel7 知识
 
 `侵删`
@@ -2590,7 +2592,7 @@ A list of default extensions supported by babel (".js", ".jsx", ".es6", ".es", "
 
 See [the full option list here](https://www.babeljs.cn/docs/options).
 
-## Articles
+## 参考链接
 
 - [精讀《用 Babel 創造自定義 JS 語法》](https://www.mdeditor.tw/pl/pkVZ/zh-tw)
 - [从 AST 编译解析谈到写 babel 插件](https://juejin.cn/post/6844903645608148999)
