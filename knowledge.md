@@ -1,5 +1,7 @@
 # 不容错过的 Babel7 知识
 
+`侵删`
+
 [原文](https://juejin.cn/post/6844904008679686152#)
 
 [Babel 中文文档](https://www.babeljs.cn/docs/)
@@ -833,11 +835,15 @@ module.exports = { presets, plugins }
 
 # babel 7 的使用的个人理解
 
+`侵删`
+
 [原文](https://www.jianshu.com/p/cbd48919a0cc)
 
 要使用各种真正的编译功能是需要配合各种插件的，要将箭头函数编译成普通函数需要使用 [@babel/plugin-transform-arrow-functions](https://babeljs.io/docs/en/babel-plugin-transform-arrow-functions)，要将 const 或者 let 变量编译成 var 变量需要[@babel/plugin-transform-block-scoping](https://babeljs.io/docs/en/babel-plugin-transform-block-scoping)，要将 class 关键字转化成传统基于原型的类需要[@babel/plugin-transform-classes](https://babeljs.io/docs/en/babel-plugin-transform-classes)，所以为了真正的编译我们是可能需要大量各种的插件的，具体插件有哪些请点[这里](https://babeljs.io/docs/en/plugins)
 
 # babel corejs@3 是如何按需 polyfill 原型对象方法的
+
+`侵删`
 
 [原文](https://zhuanlan.zhihu.com/p/139359864)
 
@@ -938,6 +944,8 @@ var a = (function () {
 
 # core-js@3 带来的惊喜
 
+`侵删`
+
 [原文](https://www.cnblogs.com/sefaultment/p/11631314.html)
 
 corejs 这个名词肯定很多人没听过，今天也是在配置 babelpolyfill 方法发现的
@@ -1032,6 +1040,8 @@ import 'regenerator-runtime/runtime'
 core-js@3 废弃了 babel-polyfill，实现了完全无污染的 API 转译，非常有潜力，但是其暂时会增加打包体积，这个还得看未来普及度上来之后的权衡。
 
 # 不要肆无忌惮地在你的项目中使用 ES78910 了～
+
+`侵删`
 
 [原文](https://juejin.cn/post/6844903942451642376)
 
