@@ -2,7 +2,7 @@
 
 ## 2021 SegmentFault D-Day 大前端前沿技术实践
 
-![image-20210801084357543](/Users/windscy/Library/Application Support/typora-user-images/image-20210801084357543.png)
+![image-20210801084357543](https://github.com/blackCY/test/blob/main/image-20210801084357543.png)
 
 ![17](https://segmentfault.com/img/bVcTPhP)
 
