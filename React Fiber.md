@@ -101,7 +101,7 @@ React15 采用递归更新子组件的方式，由于递归执行的缺陷，所
 
 > 这种将长任务分拆到每一帧中，一次执行一小段任务的操作，被称为**时间切片(time slice)**
 
-![](/Users/windscy/Desktop/Wind/React/time-slice.jpeg)
+![](https://github.com/blackCY/test/blob/main/time-slice.jpeg)
 
 ```jsx
 function App() {
