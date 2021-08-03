@@ -18,7 +18,7 @@
 
 -   IO 瓶颈：Suspense，全新 SSR
 
-![image-20210801131231078](/Users/windscy/Library/Application Support/typora-user-images/image-20210801131231078.png)
+![image-20210801131231078](https://github.com/blackCY/test/blob/main/image-20210801131231078.png)
 
 -   前端框架的本质：所有的框架的 render 逻辑，本质就是 appendChild
 
