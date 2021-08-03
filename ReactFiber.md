@@ -22,6 +22,13 @@
 
 -   前端框架的本质：所有的框架的 render 逻辑，本质就是 appendChild
 
+## 前言
+
+- 从编程范式的角度讲，React 大量吸收了函数式编程中代数效应的思想
+- 从数据结构来讲，React 大量使用了[链表](https://indepth.dev/posts/1007/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree)这种数据结构
+- 从调度模块使用了小顶堆
+- 从前端知识的角度讲，学习 React 源码能够让我们更深入的了解浏览器的运行机制以及闭包的使用等前端知识
+
 ## React Fiber 是什么？
 
 **React 是一个用于构建用于界面的 JavaScript 库，其核心机制在于跟踪一个组件状态上的更新，并将更新后的状态反应到屏幕上，在 React 中我们将此过程称为 reconciliation。**
