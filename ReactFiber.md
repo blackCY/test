@@ -20,7 +20,7 @@
 
 ![image-20210801131231078](https://github.com/blackCY/test/blob/main/image-20210801131231078.png)
 
--   前端框架的本质：所有的框架的 render 逻辑，本质就是 appendChild
+-   前端框架的本质：所有的框架的 render 逻辑，本质就是 appendChild，setAttribute，createElement 这三个逻辑，代表了创建节点，添加节点属性，添加节点，对于跨端，只是宿主不同，导致不同的API。
 
 ## 前言
 
